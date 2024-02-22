@@ -1,0 +1,37 @@
+
+.logo {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 2px;
+}
+.menu {
+    font-size: font-cal(3, h1);
+    background-color: $fondo3 !important;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 4px;
+}       
+
+.nav-link {
+    color: $hcolor !important;
+    &:hover{
+        @include aHover(2rem,white);
+    }
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffbb00;
+}
+.navbar-toggler:focus {
+    outline: none;
+}
+
+.offcanvas,
+.offcanvas-lg,
+.offcanvas-md,
+.offcanvas-sm,
+.offcanvas-xl,
+.offcanvas-xxl {
+    --bs-offcanvas-width: 250px;
+}

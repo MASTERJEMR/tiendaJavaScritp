@@ -1,0 +1,28 @@
+.galeria{
+    @extend .productos;
+    h1{
+        font-size: 2rem ;
+        font-family: 'Permanent Marker';
+    }
+    .imagen{
+        img{
+            border: double grey 2px;
+            height: 25vh;
+            margin: 30px;
+            opacity: 0.5;            
+            width: 30vw;
+            &:hover{
+                border: double $hcolor 2px;
+                border-radius: 5px;
+                opacity: 1;
+                height: 35vh;
+                width: 50vw;
+                transition-delay: 300ms, 300ms, 5ms, 5ms;
+                transition-property: border, opacity, width, height;
+
+            }
+        }
+        
+    }
+    
+}  
