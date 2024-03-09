@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "tenis clásico",
+        "descripcion": "Tennis en cuero blanco, con líneas Azules",
+        "precio": 20000,
+        "imagen": "https://reebokcol.vtexassets.com/arquivos/ids/702685-500-auto?v=638260161352430000&width=500&height=auto&aspect=true"
+    },
+    {
+        "id":2 ,"nombre":"Clásico gris","descripcion":"Tennis en cuero blanco, con líneas grises", "precio": 21000, "imagen":"https://reebokcol.vtexassets.com/arquivos/ids/708103-500-auto?v=638260188600170000&width=500&height=auto&aspect=true"},
+    {"id":3 ,"nombre":"Clásico bota", "descripcion":"Tennis en bota sintetico, con líneas Azules,amarillas", "precio": 20000, "imagen":"https://reebokcol.vtexassets.com/arquivos/ids/790298-500-auto?v=638296361691970000&width=500&height=auto&aspect=true"},
+    {"id":4 ,"nombre":"Tenis bota", "descripcion":"blanco bota", "precio": 25000, "imagen":"https://reebokcol.vtexassets.com/arquivos/ids/787678-500-auto?v=638296348913300000&width=500&height=auto&aspect=true"},
+    {"id":5 ,"nombre":"Tenis azúl", "descripcion":"blanco azul", "precio": 24000, "imagen":"https://reebokcol.vtexassets.com/arquivos/ids/790718-500-auto?v=638296363948370000&width=500&height=auto&aspect=true"},
+    {"id":6 ,"nombre":"Tenis rojo", "descripcion":"blanco rojo", "precio": 25000, "imagen":"https://reebokcol.vtexassets.com/arquivos/ids/689782-500-auto?v=638260097470100000&width=500&height=auto&aspect=true"}
+    
+]
